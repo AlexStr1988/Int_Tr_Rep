@@ -16,6 +16,6 @@ Open **2.1  Working on OECD data .do** and update the directory pathways for inp
 The code will perform all necessary data management manipulations and, eventually, will create the **Table_3_results.csv** file which contains results on OLS and IV regressions.
 
 ## Step 4
-Open ** Strekalov_Int_Tr_Rep_Replication Tables.pdf** file to see the replication tables with the results. These tables are presented in a convenient way that were created using LaTex.
+Open **Strekalov_Int_Tr_Rep_Replication Tables.pdf** file to see the replication tables with the results. These tables are presented in a convenient way that were created using LaTex.
 
 ## Please note that more detailed information on the steps performed during data management and regression analysis are in the Stata do-file **2.1  Working on OECD data .do**
